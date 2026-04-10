@@ -10,6 +10,9 @@ Project Argus is an end-to-end computer vision agent developed to automate strat
 
 Project Argus is an end-to-end computer vision agent developed to automate strategic decision-making in mobile gaming environments. This project focuses on high-speed troop detection, coordinate translation, and automated deployment logic.
 
+### 🎥 Demo
+![Project Demo](demo.gif)
+
 ### 🧠 Core Architecture
 - **The Eye (Vision):** A custom-trained **YOLOv11** model capable of identifying 26 unique troop classes in real-time.
 - **The Muscle (Actuator):** A Python-based automation layer that translates detected object coordinates into precise emulator inputs.
