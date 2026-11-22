@@ -25,7 +25,7 @@ The model was trained on a curated dataset to ensure robustness against varying 
 - **Classes:** 26 distinct unit archetypes.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python 3.11
+- **Languages:** Python 3.13
 - **ML Frameworks:** Ultralytics (YOLOv11), PyTorch
 - **Vision:** OpenCV
 - **Tools:** Roboflow (Data Management), Git
@@ -60,5 +60,12 @@ The model was trained on a curated dataset to ensure robustness against varying 
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the agent: `python src/main.py`
 
----
+### 📖 Notes on use
+
+This is an educational project. Automating a game can break its terms of service, so do not run it on a live or ranked account. It is not affiliated with Supercell, and the game and its artwork belong to their owners.
+
+### 🔗 About
+
+*Built by Srijan Kumar Samrat as a self-taught computer vision project*
 *Developed during a self-directed gap year to explore the intersection of Machine Learning and Robotics.*
+
