@@ -37,7 +37,6 @@ The model was trained on a curated dataset to ensure robustness against varying 
 3. Run the agent: `python src/main.py`
 
 ### Results
-   |Metric|           |Value|
 1.  mAP50	     -       0.986
 2.  mAP50-95	  -      0.769
 3.  Validation    -   set	16 images, 125 object instances
