@@ -37,12 +37,12 @@ The model was trained on a curated dataset to ensure robustness against varying 
 3. Run the agent: `python src/main.py`
 
 ### Results
-  - Metric            - Value
-1.  mAP50	            0.986
-2.  mAP50-95	        0.769
-3.  Validation        set	16 images, 125 object instances
-4.  Model	            YOLO11s (9.4M parameters), trained for 100 epochs at 512 pixels
-5.  Inference speed	  5.8 ms per image (plus 0.5 ms preprocessing and 1.0 ms postprocessing), measured on the validation set with an RTX 4050 Laptop GPU
+   |Metric|           |Value|
+1.  mAP50	     -       0.986
+2.  mAP50-95	  -      0.769
+3.  Validation    -   set	16 images, 125 object instances
+4.  Model	     -      YOLO11s (9.4M parameters), trained for 100 epochs at 512 pixels
+5.  Inference speed	 - 5.8 ms per image (plus 0.5 ms preprocessing and 1.0 ms postprocessing), measured on the validation set with an RTX 4050 Laptop GPU
 
 ### 📖 Notes on use
 
