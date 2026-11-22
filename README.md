@@ -1,14 +1,7 @@
 # Clash-Royale-Computer-Vision-Bot
 
 # 🛡️ Project Argus: Neural Game Automation
-> Teaching AI to play Clash Royale through real-time object detection and tactical actuation.
-
-Project Argus is an end-to-end computer vision agent developed to automate strategic decision-making in mobile gaming environments. This project focuses on high-speed troop detection, coordinate translation, and automated deployment logic.
-
-# 🛡️ Project Argus: Neural Game Automation
-> Teaching AI to play Clash Royale through real-time object detection and tactical actuation.
-
-Project Argus is an end-to-end computer vision agent developed to automate strategic decision-making in mobile gaming environments. This project focuses on high-speed troop detection, coordinate translation, and automated deployment logic.
+Project Argus is a self-directed computer vision project exploring troop detection and game automation in Clash Royale. It includes a custom-trained YOLO11s detector, OpenCV video processing, and a separate ADB-based emulator-control prototype. The current actuator uses randomized card selection and predefined deployment positions; connecting detection outputs to deployment decisions is a planned next step.
 
 ### 🎥 Demo
 ![Project Demo](demo.gif)
