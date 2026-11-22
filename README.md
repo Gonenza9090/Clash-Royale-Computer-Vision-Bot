@@ -26,8 +26,8 @@ The model was trained on a curated dataset to ensure robustness against varying 
 
 ### 🚀 Getting Started
 1. Clone the repository: `git clone https://github.com/Gonenza9090/Clash-Royale-Computer-Vision-Bot.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the agent: `python src/main.py`
+2. Install dependencies: `look to requirements`
+3. Run the agent 
 
 ### Results
 1.  mAP50	     -       0.986
