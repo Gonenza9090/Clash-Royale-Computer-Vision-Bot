@@ -1,0 +1,7 @@
+# Ultralytics version used to train the published checkpoint.
+ultralytics==8.4.30
+opencv-python
+torch
+
+# Used only by the separate emulator-control prototype (import name: ppadb).
+pure-python-adb==0.3.0.dev0
