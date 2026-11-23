@@ -50,7 +50,7 @@ The validation set is small. Broader evaluation on unseen gameplay is needed to 
 
 ## Getting started
 
-These steps run the **recorded-video detection demonstration**. The original run used Python 3.13. A desktop environment is needed for the OpenCV display window.
+These steps run the **recorded-video detection demonstration**. Requires **Python 3.11+**; the recorded run used Python 3.13.3. A desktop environment is needed for the OpenCV display window.
 
 1. Clone the repository and enter its directory:
 
@@ -106,4 +106,8 @@ This is an educational project. Automating a game can break its terms of service
 
 ## About
 
-Built during a self-directed gap year to explore computer vision, machine learning, and robotics.
+**How this was built:** AI assistance was used to review the documentation and repository structure.
+
+Built by **Srijan Kumar Samrat**.
+
+Developed during a self-directed gap year to explore the intersection of Machine Learning and Robotics.
